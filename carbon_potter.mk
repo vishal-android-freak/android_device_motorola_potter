@@ -4,6 +4,11 @@ $(call inherit-product, vendor/carbon/config/gsm.mk)
 # Inherit Carbon product configuration
 $(call inherit-product, vendor/carbon/config/common.mk)
 
+$(call inherit-product, $(SRC_TARGET_DIR)/product/full_base_telephony.mk)
+
+# for specific
+$(call inherit-product, vendor/motorola/potter/potter-vendor.mk)
+
 #Inherit device configuration
 $(call inherit-product, device/motorola/potter/full_potter.mk)
 
