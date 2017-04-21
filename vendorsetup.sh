@@ -1,1 +1,1 @@
-add lunch combo carbon_potter-userdebug
+add_lunch_combo carbon_potter-userdebug
