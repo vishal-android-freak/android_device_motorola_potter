@@ -24,18 +24,6 @@
    "remote":      "gh"
  },
  {
-   "repository":  "vishal-android-freak/android_device_motorola_potter",
-   "target_path": "device/motorola/potter",
-   "revision":    "cm-14.1",
-   "remote":      "gh"
- },
- {
-   "repository":  "boulzordev/android_vendor_motorola_potter",
-   "target_path": "vendor/motorola/potter",
-   "revision":    "cm-14.1",
-   "remote":      "gh"
- },
- {
    "repository":  "boulzordev/android_kernel_motorola_msm8953",
    "target_path": "kernel/motorola/msm8953",
    "revision":    "cm-14.1",
