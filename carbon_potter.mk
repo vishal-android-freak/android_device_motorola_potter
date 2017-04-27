@@ -30,5 +30,5 @@ PRODUCT_BUILD_PROP_OVERRIDES += \
     PRODUCT_NAME="Moto G5 Plus"
     
 PRODUCT_PROPERTY_OVERRIDES += \
-    ro.carbon.maintainer="Vishal Dubey(vishal_android freak)"
+    ro.carbon.maintainer="vishal-android-freak"
     
