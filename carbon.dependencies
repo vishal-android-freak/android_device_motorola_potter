@@ -1,0 +1,44 @@
+[
+ {
+   "repository":  "LineageOS/android_external_bson",
+   "target_path": "external/bson",
+   "revision":    "cm-14.1",
+   "remote":      "gh"
+ },
+ {
+   "repository":  "LineageOS/android_external_stlport",
+   "target_path": "external/stlport",
+   "revision":    "cm-14.1",
+   "remote":      "gh"
+ },
+ {
+   "repository":  "LineageOS/android_device_qcom_common",
+   "target_path": "device/qcom/common",
+   "revision":    "cm-14.1",
+   "remote":      "gh"
+ },
+ {
+   "repository":  "LineageOS/android_packages_resources_devicesettings",
+   "target_path": "packages/resorces/devicesettings",
+   "revision":    "cm-14.1",
+   "remote":      "gh"
+ },
+ {
+   "repository":  "vishal-android-freak/android_device_motorola_potter",
+   "target_path": "device/motorola/potter",
+   "revision":    "cm-14.1",
+   "remote":      "gh"
+ },
+ {
+   "repository":  "boulzordev/android_vendor_motorola_potter",
+   "target_path": "vendor/motorola/potter",
+   "revision":    "cm-14.1",
+   "remote":      "gh"
+ },
+ {
+   "repository":  "boulzordev/android_kernel_motorola_msm8953",
+   "target_path": "kernel/motorola/msm8953",
+   "revision":    "cm-14.1",
+   "remote":      "gh"
+ }
+]
