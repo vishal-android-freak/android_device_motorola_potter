@@ -28,3 +28,7 @@ PRODUCT_BUILD_PROP_OVERRIDES += \
     BUILD_FINGERPRINT=motorola/potter/potter:7.0/NPN25.137-35/37:user/release-keys \
     PRIVATE_BUILD_DESC="potter-7.0/NPN25.137-35/37:user/release-keys" \
     PRODUCT_NAME="Moto G5 Plus"
+    
+PRODUCT_PROPERTY_OVERRIDES += \
+    ro.carbon.maintainer="Vishal Dubey(vishal_android freak)"
+    
